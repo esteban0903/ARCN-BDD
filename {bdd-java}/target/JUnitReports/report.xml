@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.491">
+    <testcase classname="Google Search" name="Search for a term" time="4.188">
+        <system-out><![CDATA[Given I am on the Google search page........................................passed
+When I search for "GitHub"..................................................passed
+Then I should see "GitHub" in the results...................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
